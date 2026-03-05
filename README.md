@@ -1,7 +1,7 @@
 # 💫Welcome to Zugwai Tanko's Portfolio Site!💫
 
 ## ***About***
-<img src="https://github.com/user-attachments/assets/e714082b-aa2a-4b7c-ac3f-554661c2ae83" width="200" height="280">
+<img src="https://github.com/user-attachments/assets/e714082b-aa2a-4b7c-ac3f-554661c2ae83" width="300" height="280">
 
 Hi, My name is Zugwai Tanko! I am currently a first-year Computer Science Pre-Major student at Western Washington University with an interest in software development and game development. I'm currently the Community Manager of the Competitive Programming Club there, where I help plan and compete in monthly coding competitions, as well as help promote club activites to new and returning members. I plan to graduate Spring 2028 and pursue a Masters' degree in Computer Science soon after When I'm not doing schoolwork, you'll usually find me reading, playing video games, or exploring the outdoors.
 
